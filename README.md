@@ -1,7 +1,7 @@
 
 # Final Project
 
-This is my final project for the Coursera Course : **Introduction to Git and Github**
+This is my final project for the Coursera Course : **Getting Started with Git and Github**
 
 
 ## Interest Calculator
